@@ -1,7 +1,0 @@
-{
-  "projects": {
-    "default": "webchatglass",
-    "glasshost": "webchatglass"
-  },
-  "targets": {}
-}
